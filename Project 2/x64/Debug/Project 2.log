@@ -1,0 +1,94 @@
+﻿  App.cpp
+C:\Users\doman\source\repos\Project 2\Project 2\App.h(32,19): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'App.cpp')
+  
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(110,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(112,65): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(112,65): warning C4244:         with
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(112,65): warning C4244:         [
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(112,65): warning C4244:             T=float
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(112,65): warning C4244:         ]
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(112,41): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(112,41): warning C4244:         with
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(112,41): warning C4244:         [
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(112,41): warning C4244:             T=float
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(112,41): warning C4244:         ]
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(153,71): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(153,71): warning C4244:         with
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(153,71): warning C4244:         [
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(153,71): warning C4244:             T=float
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(153,71): warning C4244:         ]
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(153,48): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(153,48): warning C4244:         with
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(153,48): warning C4244:         [
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(153,48): warning C4244:             T=float
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(153,48): warning C4244:         ]
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(155,78): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(155,78): warning C4244:         with
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(155,78): warning C4244:         [
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(155,78): warning C4244:             T=float
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(155,78): warning C4244:         ]
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(155,78): warning C4244:         and
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(155,78): warning C4244:         [
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(155,78): warning C4244:             T=int
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(155,78): warning C4244:         ]
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(155,60): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(155,60): warning C4244:         with
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(155,60): warning C4244:         [
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(155,60): warning C4244:             T=float
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(155,60): warning C4244:         ]
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(155,60): warning C4244:         and
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(155,60): warning C4244:         [
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(155,60): warning C4244:             T=int
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(155,60): warning C4244:         ]
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(178,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(285,23): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(285,23): warning C4244:         with
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(285,23): warning C4244:         [
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(285,23): warning C4244:             T=unsigned int
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(285,23): warning C4244:         ]
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(285,23): warning C4244:         and
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(285,23): warning C4244:         [
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(285,23): warning C4244:             T=float
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(285,23): warning C4244:         ]
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(286,23): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(286,23): warning C4244:         with
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(286,23): warning C4244:         [
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(286,23): warning C4244:             T=unsigned int
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(286,23): warning C4244:         ]
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(286,23): warning C4244:         and
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(286,23): warning C4244:         [
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(286,23): warning C4244:             T=float
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(286,23): warning C4244:         ]
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(297,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(317,25): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(317,25): warning C4244:         with
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(317,25): warning C4244:         [
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(317,25): warning C4244:             T=unsigned int
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(317,25): warning C4244:         ]
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(317,25): warning C4244:         and
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(317,25): warning C4244:         [
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(317,25): warning C4244:             T=float
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(317,25): warning C4244:         ]
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(318,25): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(318,25): warning C4244:         with
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(318,25): warning C4244:         [
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(318,25): warning C4244:             T=unsigned int
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(318,25): warning C4244:         ]
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(318,25): warning C4244:         and
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(318,25): warning C4244:         [
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(318,25): warning C4244:             T=float
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(318,25): warning C4244:         ]
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(329,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(410,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(432,82): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(439,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(570,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(603,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\doman\source\repos\Project 2\Project 2\App.cpp(605,20): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+C:\Users\doman\source\repos\Project 2\Project 2\App.h(32,19): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'Main.cpp')
+  
+  Generating Code...
+  Project 2.vcxproj -> C:\Users\doman\source\repos\Project 2\x64\Debug\Project 2.exe
